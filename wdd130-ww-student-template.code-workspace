@@ -23,6 +23,7 @@
 		"fiveServer.injectBody": false,
 		"chat.agent.enabled": false,
 		"chat.disableAIFeatures": true,
-		"terminal.integrated.initialHint": false
+		"terminal.integrated.initialHint": false,
+		"liveServer.settings.multiRootWorkspaceName": "wdd130"
 	}
 }
